@@ -1,4 +1,3 @@
-# Freecodecamp-responsive-web-design
 # FreeCodeCamp Responsive Web Design 🌐
 
 This repository contains my projects and exercises from the **Responsive Web Design Certification** by [freeCodeCamp](https://www.freecodecamp.org/).  
