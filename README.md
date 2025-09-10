@@ -21,7 +21,18 @@ The course covers **HTML, CSS, accessibility, and responsive layouts** by buildi
 
 *(More projects will be added as I progress through the course.)*
 
+🛠️ Tech Stack
+
+HTML5
+
+CSS3 (Flexbox, Grid, Responsive Design)
+
+Accessibility & Semantic HTML
 ---
+📜 Certification Progress
+  ⬜ Ongoing
+
+⭐ If you like this repo, don’t forget to star it!
 
 ## 🚀 How to Run Locally
 1. Clone the repo:
